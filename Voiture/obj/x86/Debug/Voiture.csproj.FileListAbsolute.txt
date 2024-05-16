@@ -1,0 +1,14 @@
+C:\Users\farouk\Desktop\Voiture\Voiture\bin\Debug\Voiture.exe
+C:\Users\farouk\Desktop\Voiture\Voiture\bin\Debug\Voiture.pdb
+C:\Users\farouk\Desktop\Voiture\Voiture\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\farouk\Desktop\Voiture\Voiture\obj\x86\Debug\Voiture.Form1.resources
+C:\Users\farouk\Desktop\Voiture\Voiture\obj\x86\Debug\Voiture.Properties.Resources.resources
+C:\Users\farouk\Desktop\Voiture\Voiture\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\farouk\Desktop\Voiture\Voiture\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\farouk\Desktop\Voiture\Voiture\obj\x86\Debug\Voiture.exe
+C:\Users\farouk\Desktop\Voiture\Voiture\obj\x86\Debug\Voiture.pdb
+C:\Users\farouk\Desktop\Voiture\Voiture\bin\Debug\Voiture.exe.config
+C:\Users\farouk\Desktop\Voiture\Voiture\obj\x86\Debug\Voiture.GestionAgence.resources
+C:\Users\farouk\Desktop\Voiture\Voiture\obj\x86\Debug\Voiture.Client.resources
+C:\Users\farouk\Desktop\Voiture\Voiture\obj\x86\Debug\Voiture.Location.resources
+C:\Users\farouk\Desktop\Voiture\Voiture\obj\x86\Debug\Voiture.Menu.resources
